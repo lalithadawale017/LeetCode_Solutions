@@ -13,6 +13,7 @@ creating this repository to store solutions of leetcode problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lalithadawale017/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/lalithadawale017/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -26,4 +27,8 @@ creating this repository to store solutions of leetcode problems
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lalithadawale017/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/lalithadawale017/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
